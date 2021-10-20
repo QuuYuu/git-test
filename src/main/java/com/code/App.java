@@ -10,6 +10,8 @@ public class App
     {
         System.out.println( "Hello git hot fix!" );
         System.out.println( "Hello git master" );
+        System.out.println( "Hello git master" );
+        System.out.println( "Hello pust test master" );
 
 
     }
