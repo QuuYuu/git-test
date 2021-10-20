@@ -13,6 +13,6 @@ public class App
         System.out.println( "Hello git master" );
         System.out.println( "Hello pust test master" );
 
-
+           System.out.println( "Hello pool test master" );
     }
 }
